@@ -3,3 +3,9 @@
 OPEN*
 PUBLIC*
 memory
+.DS_Store
+node_modules/
+.next/
+__pycache__/
+*.pyc
+.venv/
