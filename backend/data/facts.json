@@ -1,0 +1,21 @@
+{
+    "full_name": "Amit Kattyan",
+    "name": "Amit Kattyan",
+    "current_role": "AI Platform Leader and Cloud Solution Architect",
+    "location": "London, UK",
+    "email": "amitkattyan@gmail.com",
+    "linkedin": "linkedin.com/in/amitkattyan",
+    "specialties": [
+      "Generative AI",
+      "Agentic AI",
+      "Cloud Solution Architect"
+    ],
+    "years_experience": 9,
+    "education": [
+      {
+        "degree": "Bachelor of Technology in Electronics and Telecommunication Engineering",
+        "institution": "KIIT University, Bhubaneswar",
+        "year": "2016"
+      }
+    ]
+  }

@@ -1,0 +1,97 @@
+I am an AI engineer, AI Platform leader and Cloud Solution Architect.Engineering leader with 9+ years of experience designing and scaling distributed systems, cloud
+platforms and AI-driven architectures. Proven ability to lead end-to-end platform ownership, drive
+large-scale migrations and deliver measurable business impact (30–70% improvements in cost,
+performance and reliability).
+
+Specializing in AWS infrastructure, Kubernetes and Agentic AI. Expert in designing high-
+availability platforms and multi-agent systems for enterprise-scale applications. AWS Golden Jacket Achiever (top 1%
+globally) with 12x certifications. Proven track record delivering measurable business impact through cost optimization and
+secure cloud architectures.
+
+TECHNICAL SKILLS
+AI & Machine Learning: LangGraph, LangChain, Multi-Agent Systems, RAG, AWS Bedrock, SageMaker, Vector Databases,
+Prompt Engineering, LLM Evaluation Frameworks, Cursor, Fine-tuning
+Infrastructure & Cloud: AWS, Kubernetes (EKS), Terraform, Kafka, Lambda, Distributed Systems, Step Functions, Serverless, Event-Driven
+Systems
+DevOps & Observability: CI/CD, Prometheus, Grafana, Datadog, IAM, RBAC, KMS, TLS, VPC
+Data: Airflow, Snowflake, Apache NiFi, ETL Pipelines, Real-time Streaming
+Programming: Python, SQL, Bash
+PROFESSIONAL EXPERIENCE
+AI Platform Lead | Betsson Group, Remote, EU
+Jul 2025 – Present
+• Led the buildout of an AI-first agentic platform leveraging AWS Bedrock, SageMaker and MCP-based
+orchestration across serverless and EKS that enabled scalable LLM-powered workflows and reduced time to
+production for AI use cases by 40%
+• Designed and implemented multi-agent systems with MCP servers integrating tool use, memory and RAG to
+enable autonomous decisioning workflows for betting intelligence, fraud detection and personalized user
+experiences
+• Built and scaled real-time AI-ready data platforms using Kafka, AWS Lambda, Terraform and Snowflake that
+processed millions of events per second with 99.9% availability
+• Established end-to-end LLM platform capabilities including prompt orchestration, evaluation pipelines,
+guardrails and cost optimization that reduced infrastructure costs by 30% annually
+• Implemented enterprise-grade AI security using AWS Guardrails, IAM least privilege, encryption and network
+isolation ensuring compliance
+• Transformed legacy ETL into near real-time streaming pipelines using Apache NiFi and EKS and reduced data
+latency by over 70%
+• Partnered with leadership and stakeholders to align AI platform with business outcomes including customer
+retention, fraud prevention and revenue optimization
+AWS Architect & Technical Lead | Accenture, London, UK
+Apr 2022 – Nov 2024
+• Led technical assessments and infrastructure audits for UK public sector clients (NHS, Home Office) and
+designed secure AWS landing zones compliant with GDS standards for 2M+ users
+• Directed large-scale migrations from on-premises to AWS using Application Discovery Service, Migration Hub
+and DMS and achieved 40% cost savings with 99.99% availability and minimal downtime
+• Designed and deployed serverless microservices using API Gateway, Lambda and DynamoDB that reduced costs
+by 30% annually and improved performance by 50%
+• Implemented containerized microservices using Amazon EKS and ECS that reduced infrastructure costs by 45%
+and achieved 99.99% uptime compared to 98.5% on-premises
+• Developed and optimized CI/CD pipelines using Terraform, CloudFormation, Ansible, GitHub Actions and Jenkins
+with integrated SSO/RBAC and secrets management that reduced security vulnerabilities by 60%
+• Implemented enterprise observability using Prometheus, Grafana, Datadog, CloudWatch and ELK stack and
+reduced Mean Time to Resolution by 30% through automated alerting and log aggregation
+• Presented cost optimization projects to C-level executives, establishing best practices adopted by other teams
+and securing £2M+ in follow-on engagements
+• Mentored junior team members in architecting microservices migration using the Strangler Pattern
+AWS Consultant | Genpact, Pune, India
+Jun 2021 – Jan 2022
+• Designed S3-based data lakes and relational database architectures with replication and backup strategies that
+optimized storage costs by 35% for global finance clients
+• Built serverless ETL pipelines using Python and AWS Glue that improved data processing reliability to 99.5% and
+reduced manual operational overhead by 70%
+Application Development Senior Analyst | Accenture, Pune, India
+May 2016 – Jun 2021
+• Engineered end-to-end data pipelines using Redshift and Lambda that improved query performance by 60%
+through advanced partitioning and sizing strategies
+• Implemented CI/CD pipelines that improved deployment speed by 50%
+• Optimized SQL queries and indexing, improving database performance
+KEY PROJECTS
+AI Career Conversation Agent | https://huggingface.co/spaces/amitkattyan01/career_conversation
+
+Built a production-grade conversational AI using LangChain, Hugging Face, and RAG, enabling context-aware multi-turn career guidance with retrieval over curated knowledge bases.
+Designed the retrieval pipeline to surface relevant advice with low latency, demonstrating end-to-end LLM deployment, evaluation, and observability on a public platform.
+
+Multi-Agent Risk Monitoring System | https://github.com/kattyanami/rt-anomaly-detection
+
+Built a LangGraph-based multi-agent system on AWS Bedrock with vector database integration for real-time anomaly detection across financial risk signals.
+Reduced manual analyst intervention by 40% through autonomous agent workflows handling detection, triage, and escalation with state-managed long-term memory.
+
+AI-Powered SaaS for Business Idea Generation | https://saas-61uzxs1gk-amit-kattyans-projects.vercel.app
+
+Designed and shipped a full-stack SaaS product with Next.js (TypeScript), FastAPI, and RAG-powered idea generation, deployed on Vercel with Clerk handling auth and subscription management.
+Built the AI layer to retrieve and synthesise domain-specific context, delivering personalised business ideas grounded in real market patterns rather than generic LLM output.
+
+Healthcare AI Consultation Assistant | https://saas-ncj9uzh16-amit-kattyans-projects.vercel.app
+
+Built an AI-powered healthcare SaaS that converts raw doctor consultation notes into structured medical summaries, actionable next steps, and patient-ready email communications in real time, reducing documentation time by ~70%.
+Migrated from Vercel to a fully containerised AWS architecture (Docker, ECR, App Runner) with auto-scaling, HTTPS, IAM least-privilege access, and CloudWatch observability, making the system production-grade and inference-ready.
+Designed a stateless, API-first FastAPI backend with real-time LLM streaming responses, RAG-ready architecture, and modular structure for future multi-agent workflows and Amazon Bedrock integration.
+Stack: Next.js (TypeScript), Tailwind CSS, FastAPI, Docker, Amazon ECR, AWS App Runner, Clerk (auth + subscriptions), CloudWatch
+
+CERTIFICATIONS & AWARDS
+• AWS Golden Jacket – Top 1%
+• AWS Solutions Architect – Professional
+• AWS DevOps Engineer – Professional
+• AWS Security Specialty
+• AWS Advanced Networking Specialty
+• AWS Machine Learning Specialty
+• HashiCorp Terraform Associate
